@@ -64,9 +64,9 @@ githubButton:
 # twitter buttons
 twitter:
   enabled: false
-  via: mistic100
-  hash: jQuery,QueryBuilder
-  account: mistic100
+  via:
+  hash:
+  account:
 
 # facebook buttons
 facebook:
